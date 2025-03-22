@@ -13,10 +13,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#1E3A8A"
       },
-      "package": "com.yourusername.securechat",
+      "package": "com.securechat.app",
       "permissions": [
         "INTERNET"
       ]
