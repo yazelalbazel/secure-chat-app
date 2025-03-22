@@ -1,7 +1,7 @@
 workflows:
   android-app:
     name: Android App
-    max_build_duration: 600
+    max_build_duration: 100
     instance_type: mac_mini_m1
     environment:
       node: latest
